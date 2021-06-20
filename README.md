@@ -6,6 +6,5 @@ To share a file with another app, the file must be in shared storage. A shared f
 
 The example illustrates sharing plain text, a file in this app's shared storage, or a file chosen with the picker.
 
-The buildozer options are documented in [BUILDOZER_README.txt](https://github.com/RobertFlatt/Android-for-Python/blob/main/share_snd/BUILDOZER_README.txt)
+The buildozer options are documented in [BUILDOZER_README.txt](https://github.com/Android-for-Python/Share-Send-Example/blob/main/BUILDOZER_README.txt)
 
-[Download from the Code Button here](https://github.com/RobertFlatt/Android-for-Python)

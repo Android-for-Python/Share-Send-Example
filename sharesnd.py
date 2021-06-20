@@ -5,7 +5,7 @@ from android import activity, mActivity
 JString = autoclass('java.lang.String')
 Intent  = autoclass('android.content.Intent')
 
-# Source https://github.com/RobertFlatt/Android-for-Python/share_snd
+# Source https://github.com/Android-for-Python/Share-Send-Example
 
 class ShareSend():
     

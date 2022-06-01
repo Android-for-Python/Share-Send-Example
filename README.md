@@ -2,6 +2,8 @@
 
 *Share a file or plain text with another app*
 
+### **Depreciated, use [share_send_example](https://github.com/Android-for-Python/share_send_example).**
+
 To share a file with another app, the file must be in shared storage. A shared file or plain text can be sent directly to another app (if it will accept it), or via a share sheet which shows apps that claim they will accept it.
 
 The example illustrates sharing plain text, a file in this app's shared storage, or a file chosen with the picker.
